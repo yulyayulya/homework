@@ -1,8 +1,5 @@
 import java.util.Scanner;
 
-/**
- * Created by user on 20.12.16.
- */
 public class calculate {
     /**
      * Created by user on 15.12.16.
